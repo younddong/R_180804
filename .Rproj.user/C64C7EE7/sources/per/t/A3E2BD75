@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533342788927.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3373568300",
+    "id" : "A3E2BD75",
+    "lastKnownWriteTime" : 1533344723,
+    "last_content_update" : 1533344723585,
+    "path" : "C:/Users/Administrator/rlangweekend/Project180804/TextMining.R",
+    "project_path" : "TextMining.R",
+    "properties" : {
+        "cursorPosition" : "27,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

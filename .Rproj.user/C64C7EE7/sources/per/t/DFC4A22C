@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533344733105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1492379300",
+    "id" : "DFC4A22C",
+    "lastKnownWriteTime" : 1533356273,
+    "last_content_update" : 1533356273679,
+    "path" : "C:/Users/Administrator/rlangweekend/Project180804/PlotDemo.R",
+    "project_path" : "PlotDemo.R",
+    "properties" : {
+        "cursorPosition" : "458,0",
+        "scrollLine" : "438",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
